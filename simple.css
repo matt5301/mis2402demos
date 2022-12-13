@@ -1,0 +1,35 @@
+#topnav{
+    background-color:   #ff8605;
+
+}
+#sidebar {
+    margin:auto;
+    width: 250px;
+    position: absolute;
+    right: 15px;
+    background-color: #19290e;
+    text-align: center;
+    z-index: 2;
+    top: 250px;
+    color: white;
+
+  }
+  table, th, td {
+    border: 2px solid #c88900;
+    text-align: center;
+    
+}
+#content{
+    background-color: #3b4708;
+    z-index: 1;
+    color:white;
+
+}
+body{
+    background-color: antiquewhite;
+
+}
+#sidebar a{
+    color: white;
+
+}
